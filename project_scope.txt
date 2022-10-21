@@ -1,0 +1,22 @@
+Reading Planner, Bookie
+	1 Book Manager
+		1.1 Add/remove books from personal library
+		1.2 Set deadlines for reading
+		1.3 Search for books in catalog
+		1.4 Set/update reading goals
+		1.5 Provide accurate time measurements to reach reading goal
+		1.6 Effectively portray reading progress
+		1.7 Manage read/unread books
+	2 User Account
+		2.1 Change associated email
+		2.2 Change password
+		2.3 Keep relevant user info
+		2.4 User creation/authentication
+		2.5 Personal collection of books interacted with
+	3 Catalog
+		3.1 Present relevant queries
+		3.2 Ability to sort by various methods, i.e. popularity, data published, etc.
+		3.3 Filter searches based on different factors, i.e. genre, intended audience
+		3.4 Utilize Google Books API to access books
+	4 Books
+		4.1 Contain relevant book information, i.e. author, genre, etc.
